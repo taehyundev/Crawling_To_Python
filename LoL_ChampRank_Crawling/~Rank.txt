@@ -1,0 +1,217 @@
+<top rank>
+1등 : Sett
+2등 : Darius
+3등 : Ornn
+4등 : Vladimir
+5등 : Mordekaiser
+6등 : Kled
+7등 : Fiora
+8등 : Soraka
+9등 : Aatrox
+10등 : Renekton
+11등 : Olaf
+12등 : Akali
+13등 : Gangplank
+14등 : Camille
+15등 : Rengar
+16등 : Jax
+17등 : Yorick
+18등 : Singed
+19등 : Sylas
+20등 : Kayle
+21등 : Quinn
+22등 : Irelia
+23등 : Malphite
+24등 : Pantheon
+25등 : Garen
+26등 : Illaoi
+27등 : Yasuo
+28등 : Poppy
+29등 : Nocturne
+30등 : Cassiopeia
+31등 : Rumble
+32등 : Heimerdinger
+33등 : Teemo
+34등 : Shen
+35등 : Lucian
+36등 : Ryze
+37등 : Volibear
+38등 : Maokai
+39등 : Riven
+40등 : Kennen
+41등 : Hecarim
+42등 : Tryndamere
+43등 : Vayne
+44등 : Jayce
+45등 : Sion
+46등 : Zac
+47등 : Nasus
+48등 : Cho'Gath
+49등 : Urgot
+50등 : Gnar
+51등 : Dr. Mundo
+
+
+<jul rank>
+1등 : Ekko
+2등 : Elise
+3등 : Lee Sin
+4등 : Master Yi
+5등 : Karthus
+6등 : Rek'Sai
+7등 : Nidalee
+8등 : Zac
+9등 : Olaf
+10등 : Shaco
+11등 : Evelynn
+12등 : Kindred
+13등 : Warwick
+14등 : Shyvana
+15등 : Nunu & Willump
+16등 : Jarvan IV
+17등 : Ivern
+18등 : Xin Zhao
+19등 : Taliyah
+20등 : Gragas
+21등 : Rengar
+22등 : Kha'Zix
+23등 : Graves
+24등 : Rammus
+25등 : Kayn
+26등 : Vi
+27등 : Fiddlesticks
+28등 : Dr. Mundo
+29등 : Hecarim
+30등 : Poppy
+31등 : Jax
+32등 : Nocturne
+33등 : Sejuani
+34등 : Pantheon
+35등 : Trundle
+36등 : Diana
+37등 : Amumu
+38등 : Qiyana
+39등 : Camille
+40등 : Sylas
+
+
+<mid rank>
+1등 : Taric
+2등 : Fizz
+3등 : Diana
+4등 : Qiyana
+5등 : Kassadin
+6등 : Talon
+7등 : Malzahar
+8등 : Katarina
+9등 : Yasuo
+10등 : Cassiopeia
+11등 : Vladimir
+12등 : Rumble
+13등 : Ahri
+14등 : Ekko
+15등 : Zoe
+16등 : LeBlanc
+17등 : Twisted Fate
+18등 : Zed
+19등 : Nocturne
+20등 : Akali
+21등 : Sylas
+22등 : Pantheon
+23등 : Anivia
+24등 : Orianna
+25등 : Aurelion Sol
+26등 : Kled
+27등 : Syndra
+28등 : Renekton
+29등 : Mordekaiser
+30등 : Zilean
+31등 : Camille
+32등 : Irelia
+33등 : Ryze
+34등 : Garen
+35등 : Viktor
+36등 : Lucian
+37등 : Heimerdinger
+38등 : Aatrox
+39등 : Annie
+40등 : Jayce
+41등 : Neeko
+42등 : Ziggs
+43등 : Galio
+44등 : Taliyah
+45등 : Lissandra
+46등 : Xerath
+47등 : Lulu
+48등 : Veigar
+49등 : Cho'Gath
+50등 : Azir
+51등 : Malphite
+52등 : Vel'Koz
+53등 : Lux
+
+
+<bot rank>
+1등 : Miss Fortune
+2등 : Senna
+3등 : Lucian
+4등 : Aphelios
+5등 : Vayne
+6등 : Caitlyn
+7등 : Ezreal
+8등 : Ashe
+9등 : Jinx
+10등 : Kai'Sa
+11등 : Yasuo
+12등 : Cassiopeia
+13등 : Heimerdinger
+14등 : Taliyah
+15등 : Draven
+16등 : Kalista
+17등 : Jhin
+18등 : Xayah
+19등 : Twitch
+20등 : Varus
+21등 : Sivir
+22등 : Kog'Maw
+23등 : Syndra
+24등 : Tristana
+
+
+<sup rank>
+1등 : Leona
+2등 : Blitzcrank
+3등 : Thresh
+4등 : Nautilus
+5등 : Senna
+6등 : Bard
+7등 : Morgana
+8등 : Nami
+9등 : Pyke
+10등 : Soraka
+11등 : Taric
+12등 : Janna
+13등 : Zilean
+14등 : Sona
+15등 : Shaco
+16등 : Lulu
+17등 : Rakan
+18등 : Karma
+19등 : Swain
+20등 : Fiddlesticks
+21등 : Maokai
+22등 : Alistar
+23등 : Braum
+24등 : Zyra
+25등 : Tahm Kench
+26등 : Vel'Koz
+27등 : Poppy
+28등 : Brand
+29등 : Xerath
+30등 : Volibear
+31등 : Neeko
+32등 : Lux
+33등 : Yuumi
+34등 : Veigar
+35등 : Shen
+36등 : Galio
